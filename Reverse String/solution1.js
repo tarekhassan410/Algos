@@ -7,7 +7,11 @@ function strReverse(aString) {
     }
   
     console.log(newString)
-    
+    return newString
 }
 
 strReverse("yes")
+strReverse("apple")
+
+// live example 
+// https://codepen.io/tarekhassan/pen/qBEaJMp?editors=1011
