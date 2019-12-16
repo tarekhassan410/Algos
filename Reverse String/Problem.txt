@@ -1,0 +1,5 @@
+Write a function that returns the reverse of a given string.
+
+"apple"  => "elppa"
+"orange" => "egnaro"
+"Hello"  => "olleH"
