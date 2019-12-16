@@ -14,4 +14,4 @@ strReverse("yes")
 strReverse("apple")
 
 // live example 
-// https://codepen.io/tarekhassan/pen/qBEaJMp?editors=1011
+// https://codepen.io/tarekhassan/pen/qBEaJMp
