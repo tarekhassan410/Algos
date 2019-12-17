@@ -18,3 +18,6 @@ function isPalindrome(testString){
   
   let test = isPalindrome("saas")
   console.log(test)
+
+  // live example
+  // https://codepen.io/tarekhassan/pen/LYEbBXM
